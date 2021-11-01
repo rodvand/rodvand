@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a network engineer with a passion for automation and development.  
+🌱 I’m currently learning Ansible and AWX.
+
